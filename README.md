@@ -1,4 +1,4 @@
-# Connect 2 Arduinos using NRF24L01 and a PS2 Controller
+# Arduino + NRF24L01 + PS2 Controller
 
 # Requirements
 - Transmitter
