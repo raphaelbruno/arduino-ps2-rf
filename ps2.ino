@@ -262,7 +262,6 @@ void setConnected() {
   tone(BUZZER, 2500, 100);
   delay(100);
   tone(BUZZER, 3000, 100);
-  delay(100);
 }
 
 void setDisconnected() {
@@ -275,7 +274,6 @@ void setDisconnected() {
   tone(BUZZER, 2500, 100);
   delay(100);
   tone(BUZZER, 2000, 100);    
-  delay(100);
 }
 
 /************************************************************
